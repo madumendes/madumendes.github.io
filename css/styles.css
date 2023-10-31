@@ -10992,7 +10992,7 @@ section.resume-section .resume-section-content {
     min-height: 100vh;
   }
 }
-@media (min-width: 992px) {
+@media (min-width: 3000px) {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
