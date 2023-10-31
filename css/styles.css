@@ -11,7 +11,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
- @media screen and (max-width: 500px) {
+ @media screen and (max-width: 100%) {
   .column {
     width: 100%;
  }
