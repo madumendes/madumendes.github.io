@@ -143,7 +143,7 @@ h1, .h1 {
 }
 @media (min-width: 1200px) {
   h1, .h1 {
-    font-size: 6rem;
+    font-size: 5.7rem;
   }
 }
 
@@ -10888,7 +10888,7 @@ p.lead {
 }
 
 .subheading {
-  font-family: 'PT Serif', serif;
+  font-family: Muli, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
   text-transform: none;
   font-weight: 500;
   font-size: 1.5rem;
@@ -10976,9 +10976,9 @@ p.lead {
 section.resume-section {
   display: flex;
   align-items: center;
-  padding-left: 1rem;
+  padding-left: 3rem;
   padding-right: 1rem;
-  padding-top: 5rem;
+  padding-top: 7.5rem;
   padding-bottom: 5rem;
   max-width: 75rem;
   background-color: #f5eeda;
